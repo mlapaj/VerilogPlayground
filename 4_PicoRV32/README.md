@@ -1,7 +1,7 @@
 # Intro
 This is mini version of AE350
 # Toolchain
-Toolchain taken from xPack (https://xpack-dev-tools.github.io/riscv-none-elf-gcc-xpack/)[https://xpack-dev-tools.github.io/riscv-none-elf-gcc-xpack/]
+Toolchain taken from xPack [https://xpack-dev-tools.github.io/riscv-none-elf-gcc-xpack/](https://xpack-dev-tools.github.io/riscv-none-elf-gcc-xpack/)
 # Debugger
 Used RV-Debugger Plus made by Sipeed.
 I guess any other debugger should work (requires changes in openocd.cfg).
